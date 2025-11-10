@@ -333,7 +333,7 @@ Balance {amount=0.0}
 
 ### 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/Akashrasad/JPMorgan_Chase_Software_Engineering_Job_Simulation.git
 cd JPMorganChase-Forage-Job-Simulation
 ```
 
@@ -352,7 +352,7 @@ cd JPMorganChase-Forage-Job-Simulation
 
 ## 🙋‍♂️ Author
  # Akash Prasad
-## Pre-final year student at SSN College of Engineering
+
 🔗 [LinkedIn](https://www.linkedin.com/in/akash-prasad-7b21621bb/) | 🌐 [GitHub](https://github.com/Akashrasad)
 
 ## For any queries/dounts 
